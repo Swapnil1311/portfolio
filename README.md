@@ -5,7 +5,6 @@ This is my personal portfolio website built with **React** and **Tailwind CSS**.
 ## Features
 
 - **Responsive Design**: Adapts seamlessly to various screen sizes.
-- **Dark Mode/Light Mode Toggle**: Users can switch between dark and light themes.
 - **Smooth Scrolling**: Enhanced navigation with smooth scrolling effects.
 - **Interactive Elements**: Added animations and interactive components for an engaging user experience.
 
